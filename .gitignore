@@ -1,0 +1,14 @@
+.vscode
+.DS_Store
+site/
+
+*.pyc
+*.out
+
+makefile
+secret.py
+PREFIX.md
+
+format.cpp
+format.py
+format.java
